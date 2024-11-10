@@ -1,0 +1,39 @@
+## MCQ 1
+Question: What is Navyansh Kothari's primary area of expertise based on his work experience?
+A) Cloud Computing
+B) iOS App Development
+C) Full Stack MERN Web Development
+D) Social Media Management
+Correct Answer: C
+
+## MCQ 2
+Question: Which programming language is NOT mentioned in Navyansh's technical skills or project tech stacks?
+A) Swift UI
+B) Java
+C) C#
+D) Python
+Correct Answer: C
+
+## MCQ 3
+Question: Where did Navyansh pursue his BTech in Computer Science Engineering?
+A) Indian Institute of Technology, Bombay
+B) Chinmaya Vidyalaya, Chennai
+C) Vellore Institute of Technology, Chennai
+D) Microsoft Learn Student Ambassadors
+Correct Answer: C
+
+## MCQ 4
+Question: Which social media platform does Navyansh use to share his tech content?
+A) Instagram
+B) LinkedIn
+C) YouTube
+D)  All of the above
+Correct Answer: C
+
+## MCQ 5
+Question:  Which cloud platform certification does Navyansh hold?
+A) Google Cloud Professional Data Engineer
+B) AWS Certified Solutions Architect
+C) AWS Certified Cloud Practitioner
+D) Microsoft Azure Fundamentals
+Correct Answer: C
